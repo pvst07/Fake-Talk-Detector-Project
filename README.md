@@ -1,7 +1,7 @@
 # Datasets
 ดาวน์โหลดได้ที่ : https://www.kaggle.com/datasets/chayuri/deepfake-voice-segmented
 
-# More Detail
+# For More Detail
 อ่านรายละเอียดเพิ่มเติมได้ที่ : https://medium.com/@pvs.tw07/faketalk-detector-0846083fc215
 
 # Deployment 
